@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EL MEHDI HAJJAB</h1>
 <h3 align="center">A passionate FULLSTACK developer from Morroco</h3>
 
-
+<center><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Profile Banner" width="800"></center>
 ---
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
@@ -10,8 +10,13 @@
           ✔️ Devops : DOCKER | <br> 
           ✔️ Design : UML  <br>
           ✔️ Web Service : JSON | XML  <br>
-          ✔️ DateBases : MYSQL | MONGODB | H2<br>
-          
+          ✔️ DateBases : MYSQL | MONGODB <br>
+        ☕ FrontEnd <br>
+          ✔️ JS:React | TypeScript |Jquery
+
+          - 📖 I’m currently learning everything 🤣 <br>
+          - 👯 I’m looking to collaborate with other companies like freelance <br>
+          - 📫 How to reach me : Email : hajjabmahdi@gmail.com / Phone : +212 665987482 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdihajjab&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdihajjab" /> </p>
 
 
