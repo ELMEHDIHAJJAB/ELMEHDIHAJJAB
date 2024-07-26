@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EL MEHDI HAJJAB</h1>
 <h3 align="center">A passionate FULLSTACK developer </h3>
 
-<center><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Profile Banner" width="800"></center>
+
 ---
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
